@@ -7,7 +7,7 @@ import { AuthProvider } from "./components/authcontext/Authcontext";
 
 import { BrowserRouter } from "react-router-dom";
 
-ReactDOM.render(
+ReactDOM.createRoot(
   <React.StrictMode>
     <BrowserRouter>
       <AuthProvider>
