@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/restaurant-reservation-system/static/css/main.af52ee91.css",
-    "main.js": "/restaurant-reservation-system/static/js/main.7c3b1379.js",
-    "static/js/453.258b012d.chunk.js": "/restaurant-reservation-system/static/js/453.258b012d.chunk.js",
-    "static/media/bg.jpg": "/restaurant-reservation-system/static/media/bg.6d4029ee08933f3f88a3.jpg",
-    "index.html": "/restaurant-reservation-system/index.html",
-    "main.af52ee91.css.map": "/restaurant-reservation-system/static/css/main.af52ee91.css.map",
-    "main.7c3b1379.js.map": "/restaurant-reservation-system/static/js/main.7c3b1379.js.map",
-    "453.258b012d.chunk.js.map": "/restaurant-reservation-system/static/js/453.258b012d.chunk.js.map"
+    "main.css": "/SPM-PROJECT/static/css/main.af52ee91.css",
+    "main.js": "/SPM-PROJECT/static/js/main.e0d44156.js",
+    "static/js/453.258b012d.chunk.js": "/SPM-PROJECT/static/js/453.258b012d.chunk.js",
+    "static/media/bg.jpg": "/SPM-PROJECT/static/media/bg.6d4029ee08933f3f88a3.jpg",
+    "index.html": "/SPM-PROJECT/index.html",
+    "main.af52ee91.css.map": "/SPM-PROJECT/static/css/main.af52ee91.css.map",
+    "main.e0d44156.js.map": "/SPM-PROJECT/static/js/main.e0d44156.js.map",
+    "453.258b012d.chunk.js.map": "/SPM-PROJECT/static/js/453.258b012d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.af52ee91.css",
-    "static/js/main.7c3b1379.js"
+    "static/js/main.e0d44156.js"
   ]
 }
